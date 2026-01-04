@@ -4,6 +4,6 @@
 ## Courses
 #### SECI1013 - Discrete Structure
 #### SECJ1013 - Programming Technique I
-#### [SECP1513 - Technology and Information System](https://TIS.com)
+#### [SECP1513 - Technology and Information System](https://github/chediana/TIS.com)
 #### SECR1013 - Digital Logic
 #### ULRS1032 - Integrity and Anti-Corruption
