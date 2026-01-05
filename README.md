@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am first year Bachelor of Computer Science (Computer Network and Security) with Honour student of Universiti Teknologi Malaysia (UTM).
 
-* 🌍  I'm based in Temerloh, Pahang
+* 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [chediana263@gmail.com](mailto:chediana263@gmail.com)
 * 🧠  I'm currently learning Computer Science (Computer Network and Security)
 
