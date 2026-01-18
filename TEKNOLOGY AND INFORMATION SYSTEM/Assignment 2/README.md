@@ -1,5 +1,5 @@
 ## PPG INDUSTRY TALK
-<img src="https://github.com/chediana4/chediana/blob/85d34fac0e059b390b7fb643dc5c4a240922659e/TEKNOLOGY%20AND%20INFORMATION%20SYSTEM/Assignment%202/PPG%20INDUSTRY%20TALK.jpeg" width="400">
+<img src="https://github.com/chediana4/chediana/blob/85d34fac0e059b390b7fb643dc5c4a240922659e/TEKNOLOGY%20AND%20INFORMATION%20SYSTEM/Assignment%202/PPG%20INDUSTRY%20TALK.jpeg" width="400"> </br>
 #### PPG INDUSTRY TALK (INDUSTRY TALK 1)
 #### DATE : 20 NOVEMBER 2025
 I gained valuable insights into how a global company like PPG uses ICT, data analytics, and cloud infrastructure to support sustainability initiative and real-world business operations.
