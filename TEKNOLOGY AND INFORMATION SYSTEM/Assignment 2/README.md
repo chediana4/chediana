@@ -1,14 +1,9 @@
-## INDUSTRY-TALK-2
-![INDUSTRY TALK 2](https://github.com/chediana4/INDUSTRY-TALK-2/blob/01666309784f889c1b36ace15680dec5e7f90c9a/INDUSTRY%20TALK%202.jpeg)<br>
-#### date : 18 December 2025
+## PPG-INDUSTRY-TALK
+![INDUSTRY TALK 1](https://github.com/chediana4/PPG-INDUSTRY-TALK/blob/9c181cc2197c75f6294e5237c734bb0d5e9bd9c2/PPG%20INDUSTRY%20TALK.jpeg)<br>
+#### PPG INDUSTRY TALK (INDUSTRY TALK 1)
+#### DATE : 20 NOVEMBER 2025
+I gained valuable insights into how a global company like PPG uses ICT, data analytics, and cloud infrastructure to support sustainability initiative and real-world business operations.
 
-Industry Talk on Computer Science and System Development was delivered by Ts. Hj. Abdul Alim Bin Abdul Muttalib.
-
-The session gave me a clearer picture that computer science is not only about writing code, but also about problem-solving, critical thinking, communication, and teamwork. I learned that understanding the overall development process is just as important as technical skills, especially when working on real-world projects.
-
-The talk also helped me realize the importance of planning, project management, and choosing the right development approach when building a system. It gave me better exposure to how industries manage projects, adapt to changes, and work as a team to deliver effective solutions.
-
-Overall, this session broadened my perspective on the expectations of the industry and motivated me to improve my skills and prepare myself for future challenges in the field of computer science.
-
-## REPORT
-[ASSIGNMENT 3](https://drive.google.com/file/d/16-pd1LAQIKypAOK3TeK54HIjyLiImB9Z/view?usp=drive_link)
+The session helped me better understand how technology is applied in the industry to solve real challenges and improve efficiency. Ithighlighted the importance of not only having strong technical skills but also understanding bussiness needs in industry requirements. Overall, the talk really motivating me to further explore data analytics and cloud computing as potential future career paths.
+## POSTER
+![POSTER](https://github.com/chediana4/PPG-INDUSTRY-TALK/blob/0e2371f0010bc2e130dddce8336d173a73aa2dcd/INDUSTRY%20TALK%201%20(%20POSTER%20).jpeg)<br>
