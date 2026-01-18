@@ -12,3 +12,6 @@ Had an amazing experience attending the Oracle Talk by Encik Muhammad Asrul Muha
 After the talk, we had the chance to interview UTM Digital staff and walk around the booths to better understand their thechnologies and work culture. Moreover, seing real system in action really motivate us to further explore in technology advancement and how they applied in real working environments. 
 
 Overall, the session was very meaningful. Grateful for the exposure and insights shared througout the event, which is inspired us to be more prepared in our jorney in digital industry.
+
+**Link for the video :**
+https://drive.google.com/file/d/1LznDlXV1PWRRAZzS1iXphLVHb4k9i7Em/view?usp=sharing
