@@ -16,7 +16,7 @@ Overall, the session was very meaningful. Grateful for the exposure and insights
 **Link for the video :**
 <p align ="center">
   <a href="https://drive.google.com/file/d/1LznDlXV1PWRRAZzS1iXphLVHb4k9i7Em/view?usp=sharing">
-  <img src="https://github.com/chediana4/chediana/blob/main/TEKNOLOGY%20AND%20INFORMATION%20SYSTEM/Project%20Design%20Thinking/images/Untitled%20design%20(1).png" alt= "Click me" width ="400">
+  <img src="https://github.com/chediana4/chediana/blob/5b28c17e010ad7c4aa1d1daa9f5469efe46b350a/TEKNOLOGY%20AND%20INFORMATION%20SYSTEM/Assignment%201/image/Untitled%20design%20(1).png" alt= "Click me" width ="400">
 </a>
 </p>
 
