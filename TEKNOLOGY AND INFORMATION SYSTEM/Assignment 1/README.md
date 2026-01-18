@@ -1,5 +1,6 @@
 ## UTM DIGITAL OPEN DAY
-<img src="https://github.com/chediana4/chediana/blob/b06da8c80a095d029659e10a6c8344b70b92d5a2/TEKNOLOGY%20AND%20INFORMATION%20SYSTEM/Assignment%201/ORACLE%20TALK.jpeg" width="400"> <br>
+<p align = "center">
+<img src="https://github.com/chediana4/chediana/blob/b06da8c80a095d029659e10a6c8344b70b92d5a2/TEKNOLOGY%20AND%20INFORMATION%20SYSTEM/Assignment%201/ORACLE%20TALK.jpeg" width="400"> </p>
 #### Topic : DigiTechX 6 - Oracle Academy 
 #### Date : 28th October 2025 
 #### Venue : UTM Digital (D07), UTM Johor Bahru
