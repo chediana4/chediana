@@ -31,7 +31,7 @@ AJK Biro Akademik KMPh (2024 - 2025)<br>
 
 ### Courses
 
-[SECP1513 - Technology and Information System](https://github.com/chediana4/chediana/tree/526011006f6a59114d6544ae9102489133f798f1/TEKNOLOGY%20AND%20INFORMATION%20SYSTEM)<br>
+[SECP1513 - Technology and Information System](https://github.com/chediana4/chediana/tree/5a3ecacf203dd41142e383a7406a7c1bba6e3706/TEKNOLOGY%20AND%20INFORMATION%20SYSTEM)<br>
 SECJ1013 - Programming Technique I<br>
 SECR1013 - Digital Logic<br>
 SECI1013 - Discrete Structure<br>
