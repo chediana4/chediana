@@ -18,5 +18,8 @@ by addressing common issues such as long waiting times, lack of queue visibility
 This project focuses on student-centered design, usability, and efficient healthcare service access for university students.
 
 **The link for report :**
-link report : https://drive.google.com/file/d/1dKAfe9FrFAFnjOCWF_2eB83J-ERTSeOW/view?usp=sharing
-![UTM Digital Healthcare Report](https://drive.google.com/file/d/1dKAfe9FrFAFnjOCWF_2eB83J-ERTSeOW/view?usp=sharing)<br>
+<p align ="center">
+  <a href=" https://drive.google.com/file/d/1dKAfe9FrFAFnjOCWF_2eB83J-ERTSeOW/view?usp=sharing">
+  <img src="https://github.com/chediana4/chediana/blob/main/TEKNOLOGY%20AND%20INFORMATION%20SYSTEM/Project%20Design%20Thinking/images/Untitled%20design%20(1).png" alt= "Click me" width ="500">
+</a>
+</p>
