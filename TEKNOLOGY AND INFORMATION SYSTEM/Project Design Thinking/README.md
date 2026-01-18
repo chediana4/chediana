@@ -17,3 +17,5 @@ by addressing common issues such as long waiting times, lack of queue visibility
 
 This project focuses on student-centered design, usability, and efficient healthcare service access for university students.
 
+![REPORT](https://github.com/chediana4/chediana/blob/8083a401056b0e74280ce93f9464faee4d532829/TEKNOLOGY%20AND%20INFORMATION%20SYSTEM/Project%20Design%20Thinking/PROJECT%20REPORT.pdf)<br>
+
