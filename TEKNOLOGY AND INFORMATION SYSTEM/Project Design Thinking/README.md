@@ -4,16 +4,16 @@ The **UTM Digital Healthcare and Appointment System** developed using design thi
 A system was designed with student-centered perspective aims to improve students' experience at the UTM Health Centre (PKU)
 by addressing common issues such as long waiting times, lack of queue visibility, and limited access to health records.
 
-Key Features
-	•	Appointment booking for healthcare and dental services
-	•	Real-time queue status with estimated waiting time
-	•	Access to previous health records and visit history
-	•	Simple and user-friendly interface designed using Figma
+Key Features<br>
+	•	Appointment booking for healthcare and dental services<br>
+	•	Real-time queue status with estimated waiting time<br>
+	•	Access to previous health records and visit history<br>
+	•	Simple and user-friendly interface designed using Figma<br>
 
-Tools & Methodology
-	•	Design Thinking (Empathy, Define, Ideate, Prototype, Test)
-	•	Figma for low-fidelity prototyping
-	•	User testing and feedback evaluation
+Tools & Methodology<br>
+	•	Design Thinking (Empathy, Define, Ideate, Prototype, Test)<br>
+	•	Figma for low-fidelity prototyping<br>
+	•	User testing and feedback evaluation<br>
 
 This project focuses on student-centered design, usability, and efficient healthcare service access for university students.
 
