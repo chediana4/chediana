@@ -17,7 +17,7 @@ I am first year Bachelor of Computer Science (Computer Network and Security) wit
 
 ### Courses
 
-[SECP1513 - Technology and Information System](https://github.com/chediana4/chediana/tree/a27bc95c782d72235b0b8dd7e9e37e246ac14c07/TEKNOLOGY%20AND%20INFORMATION%20SYSTEM)<br>
+[SECP1513 - Technology and Information System]([https://github.com/chediana4/chediana/tree/a27bc95c782d72235b0b8dd7e9e37e246ac14c07/TEKNOLOGY%20AND%20INFORMATION%20SYSTEM](https://github.com/chediana4/chediana/tree/526011006f6a59114d6544ae9102489133f798f1/TEKNOLOGY%20AND%20INFORMATION%20SYSTEM))<br>
 SECJ1013 - Programming Technique I<br>
 SECR1013 - Digital Logic<br>
 SECI1013 - Discrete Structure<br>
