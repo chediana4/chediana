@@ -1,5 +1,7 @@
 ## INDUSTRY-TALK-2
-![INDUSTRY TALK 2](https://github.com/chediana4/INDUSTRY-TALK-2/blob/01666309784f889c1b36ace15680dec5e7f90c9a/INDUSTRY%20TALK%202.jpeg)<br>
+<p align="center">
+  <img src="https://github.com/chediana4/INDUSTRY-TALK-2/blob/01666309784f889c1b36ace15680dec5e7f90c9a/INDUSTRY%20TALK%202.jpeg" width="400">
+
 #### date : 18 December 2025
 
 Industry Talk on Computer Science and System Development was delivered by Ts. Hj. Abdul Alim Bin Abdul Muttalib.
